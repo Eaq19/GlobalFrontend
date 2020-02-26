@@ -31,8 +31,8 @@ export class SpotifyService {
   }
   
   getToken() {
-    const URL = `https://accounts.spotify.com/authorize?client_id=654cc047ab414062b29aebe03009a48c&response_type=token&redirect_uri=http://localhost:4200/&client_secret =0a7cbe5456454b0aabe804e8394cf2d4`;
-    window.location.href = URL;
+    //const URL = `https://accounts.spotify.com/authorize?client_id=654cc047ab414062b29aebe03009a48c&response_type=token&redirect_uri=http://localhost:4200/&client_secret =0a7cbe5456454b0aabe804e8394cf2d4`;
+    //window.location.href = URL;
   }
 
 }
